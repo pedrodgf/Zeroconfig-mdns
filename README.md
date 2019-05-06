@@ -1,6 +1,6 @@
 sudo apt-get install avahi-daemon avahi-discover libnss-mdns
 
-sudo nano apple-mdns-install.sh
+sudo nano Axis-mdns-install.sh
 
 sudo chmod 755 apple-mdns-install.sh
 
